@@ -1031,6 +1031,7 @@ echo "
             configure_singapore
             create_lorad_json_singapore
             set_dns_1_1_1_1
+			setupstep2
             echo "Rebooting sistem..."
             reboot
             ;;
